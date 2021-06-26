@@ -8,7 +8,7 @@
 body {
   background-color: #d9dcd6;
 }
-/* header styyling */
+/* header styling */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -25,7 +25,7 @@ body {
 .header h1 .seo {
   color: #d9dcd6;
 }
-
+/* navigation styling */
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -33,25 +33,25 @@ body {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
 }
-
+/* navigator unordered list styling */
 .header nav ul {
   list-style-type: none;
 }
-
+/* list styling */
 .header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
-
+/* anchor tag styling */
 a {
   color: #ffffff;
   text-decoration: none;
 }
-
+/* paragraph styling */
 p {
   font-size: 16px;
 }
-/* hero styling */
+/* hero/jumbotron styling */
 .hero {
   height: 800px;
   width: 100%;
@@ -60,22 +60,23 @@ p {
   background-size: cover;
   background-position: center;
 }
-/* content section styling*/
+/* leftside content */
 .float-left {
   float: left;
   margin-right: 25px;
 }
-
+/* rightside content */
 .float-right {
   float: right;
   margin-left: 25px;
 }
-
+/* section parent styling */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
+/* section content-box */
 .content-box {
   margin-bottom: 20px;
   padding: 50px;
@@ -103,7 +104,7 @@ p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
-
+/* aside content box */
 .benefit-info {
   margin-bottom: 32px;
   color: #ffffff;
@@ -128,7 +129,7 @@ p {
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
 }
-
+/* footer heading */
 .footer h4 {
   font-size: 20px;
 }
